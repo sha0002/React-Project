@@ -17,3 +17,7 @@ function clickbutton() {
     document.querySelector("h1").onclick = document.body.style.color = ("white")
 }
 
+function clickbtn() {
+    document.body.style.background = ("blue")
+    document.querySelector("h1").onclick = document.body.style.color = ("white")
+}
